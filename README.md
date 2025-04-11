@@ -74,7 +74,7 @@ Follow the steps below to set up and run the game on your machine:
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/car-game-pygame.git
+git clone https://github.com/PranitBijave27/2D_Car_Game-clone.git
 cd car-game-pygame
 ```
 
@@ -94,19 +94,10 @@ pip install pygame
 4. **Run the Game**
 
 ```bash
-python car_game.py
+python Game.py
 ```
 
 Make sure all image and sound assets are in the correct folders, as expected by the code.
-
----
-
-## 💡 Future Ideas
-
-- Add a pause/resume feature
-- Difficulty scaling over time
-- Powerups (like shields or slow-mo)
-- Online high score leaderboard
 
 ---
 
