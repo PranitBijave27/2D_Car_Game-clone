@@ -1,4 +1,4 @@
-# 🚗 Car Game using Pygame
+# Car Game using Pygame
 
 A fast-paced car dodging game built using **Python** and **Pygame**. The player controls a car on a highway, avoiding randomly appearing traffic. Survive as long as you can and aim for the highest score!
 
@@ -6,7 +6,7 @@ A fast-paced car dodging game built using **Python** and **Pygame**. The player 
 # About Game
 
   Car Game using Pygame is a simple yet addictive 2D racing-style game where the objective is to dodge incoming traffic for as long as possible. The player controls a car on a vertical scrolling highway, maneuvering between lanes to avoid collisions. Each obstacle (enemy vehicle) is randomly selected from a list of vehicle sprites and appears at different speeds and positions to keep the gameplay dynamic and challenging.
- ------
+ 
 ## 🎮 Gameplay Features
 
 - 🏎️ **Player Car Movement**: Move left/right to switch lanes, and up/down to dodge traffic.
