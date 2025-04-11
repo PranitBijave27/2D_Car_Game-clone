@@ -1,7 +1,7 @@
 # 🚗 Car Game using Pygame
 
 A fast-paced car dodging game built using **Python** and **Pygame**. The player controls a car on a highway, avoiding randomly appearing traffic. Survive as long as you can and aim for the highest score!
- --------
+
 
 # About Game
 
