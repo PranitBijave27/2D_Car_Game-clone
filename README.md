@@ -60,6 +60,56 @@ CarGame/
 
 ---
 
+## 🛠️ Installation process
+
+Follow the steps below to set up and run the game on your machine:
+
+### ✅ Prerequisites
+
+- Python 3.7 or higher
+- `pip` (Python package installer)
+
+### 💾 Step-by-Step Guide
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/your-username/car-game-pygame.git
+cd car-game-pygame
+```
+
+2. **Create a Virtual Environment (Optional but Recommended)**
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. **Install Dependencies**
+
+```bash
+pip install pygame
+```
+
+4. **Run the Game**
+
+```bash
+python car_game.py
+```
+
+Make sure all image and sound assets are in the correct folders, as expected by the code.
+
+---
+
+## 💡 Future Ideas
+
+- Add a pause/resume feature
+- Difficulty scaling over time
+- Powerups (like shields or slow-mo)
+- Online high score leaderboard
+
+---
+
 ## 👨‍💻 Author
 
 **Pranit Bijave**  
